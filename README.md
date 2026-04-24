@@ -1,4 +1,4 @@
-# 🍽️ Hyderabad-food-rescue-exchange
+# 🍽️ Hyderabad-food-rescue
 
 An AI-powered intelligent food rescue and redistribution platform that connects surplus food donors with nearby NGOs using real-time location matching, preparation & expiry tracking, and machine learning-based food quality detection.
 
