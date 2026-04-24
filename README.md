@@ -1,4 +1,4 @@
-# 🍽️ MealForAll AI
+# 🍽️ Hyderabad-food-rescue-exchange
 
 An AI-powered intelligent food rescue and redistribution platform that connects surplus food donors with nearby NGOs using real-time location matching, preparation & expiry tracking, and machine learning-based food quality detection.
 
@@ -36,4 +36,10 @@ npm run dev<img width="1881" height="911" alt="Screenshot 2026-04-17 153322" src
 <img width="1900" height="917" alt="Screenshot 2026-04-24 122322" src="https://github.com/user-attachments/assets/da2fbe3c-2de8-4115-911e-3fc522a250a7" />
 <img width="1900" height="917" alt="Loginpage" src="https://github.com/user-attachments/assets/35bbe17d-da87-4970-ba25-5a05d0c3c8d1" />
 <img width="1898" height="920" alt="Screenshot 2026-04-17 152741" src="https://github.com/user-attachments/assets/f85b664b-e7b9-4254-9ac8-ceb554a12144" />
+## 📁 Backend Structure
+
+- ai_training → ML model training  
+- app → API logic  
+- tests → testing files  
+- main.py → FastAPI entry point
 
