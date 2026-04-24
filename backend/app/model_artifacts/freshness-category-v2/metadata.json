@@ -1,0 +1,9 @@
+{
+  "version": "freshness-category-v2",
+  "trained_at": "2026-04-18T09:00:00Z",
+  "output_dim": 11,
+  "num_classes": 11,
+  "backbone": "mobilenet_v2",
+  "class_map_file": "class_names.json",
+  "checkpoint_file": "checkpoint.mock"
+}

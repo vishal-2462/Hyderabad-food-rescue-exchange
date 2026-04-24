@@ -1,0 +1,15 @@
+{
+  "class_names": [
+    "fruit",
+    "bread_or_bakery",
+    "biryani",
+    "roti",
+    "curry",
+    "rice",
+    "kebab",
+    "dessert",
+    "fried_rice",
+    "haleem",
+    "dry_rations"
+  ]
+}

@@ -1,0 +1,10 @@
+image_path,food_category,freshness_label,food_type,prepared_time,storage_condition,split
+dataset/fruit/fresh/apple-fresh-01.jpg,fruit,fresh,apple,,ambient,train
+dataset/fruit/about_to_spoil/banana-bruised-01.jpg,fruit,about_to_spoil,banana,,ambient,train
+dataset/fruit/spoiled/orange-rotten-01.jpg,fruit,spoiled,orange,,ambient,train
+dataset/biryani/fresh/biryani-fresh-01.jpg,biryani,fresh,biryani,,insulated,train
+dataset/biryani/about_to_spoil/biryani-borderline-01.jpg,biryani,about_to_spoil,biryani,,ambient,train
+dataset/biryani/spoiled/biryani-spoiled-01.jpg,biryani,spoiled,biryani,,ambient,train
+dataset/roti/fresh/roti-fresh-01.jpg,roti,fresh,roti,,ambient,train
+dataset/roti/dry_or_stale/roti-dry-01.jpg,roti,dry_or_stale,roti,,ambient,train
+dataset/roti/spoiled/roti-spoiled-01.jpg,roti,spoiled,roti,,ambient,train
