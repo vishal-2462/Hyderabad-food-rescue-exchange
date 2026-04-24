@@ -8,10 +8,15 @@ An AI-powered intelligent food rescue and redistribution platform that connects 
 
 - 📍 Location-based food donation matching  
 - ⏳ Food preparation & expiry tracking  
-- 🤖 AI-based food quality detection (Fresh / Near Expiry / Expired)  
-- 🔔 Real-time notifications for NGOs  
-- 🚚 Smart food redistribution system  
-
+- 📸 Donor food image upload for quality checking
+- 🤖 Machine Learning based food image detection
+- ✅ Food quality classification: Fresh / Near Expiry / Expired
+- 🕒 Food preparation time entry by donor
+- ⏳ Expiry time tracking and remaining shelf-life calculation
+- 📍 Location-based matching between donors and nearby NGOs
+- 🚚 Priority-based redistribution using distance + expiry urgency
+- 🔔 Real-time alerts for NGOs when food is available
+- 📊 Impact tracking: meals saved and food waste reduced
 ---
 
 ## 🛠️ Tech Stack
