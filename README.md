@@ -42,4 +42,7 @@ npm run dev<img width="1881" height="911" alt="Screenshot 2026-04-17 153322" src
 - app → API logic  
 - tests → testing files  
 - main.py → FastAPI entry point
+<img width="1900" height="921" alt="Screenshot 2026-04-24 143726" src="https://github.com/user-attachments/assets/109aa6f4-c0ea-4ade-985c-d4f0c858bf0b" />
+<img width="1899" height="916" alt="Screenshot 2026-04-24 144322" src="https://github.com/user-attachments/assets/a3e40f58-cabd-4316-91dc-a75b828079dc" />
+<img width="1893" height="920" alt="Screenshot 2026-04-24 144459" src="https://github.com/user-attachments/assets/001877cf-222f-4171-92c7-0644b376203c" />
 
